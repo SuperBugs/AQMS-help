@@ -1,5 +1,6 @@
 # AQMS系统帮助文档  
-- [稽核问题管理系统使用帮助文档]("https://alqin.gitbook.io/aqms-doc/")  
+
+- [稽核问题管理系统使用帮助文档](https://alqin.gitbook.io/aqms-doc/)  
 
 ## 编辑人员
 
